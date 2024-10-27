@@ -8,11 +8,9 @@
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
-- 🤝 I’m looking for help with **Cloud IT**
+- 🤝 I’m looking for help with **coding**
 
 - 💬 Ask me about **Solution Architecture**
-
-- 📫 How to reach me **Rafiu.dania@yahoo.com**
 
 - ⚡ Fun fact **My music is pretty good**
 
