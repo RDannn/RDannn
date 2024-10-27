@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **coding**
 
-- 💬 Ask me about **Solution Architecture**
+- 💬 Ask me about **AWS Solution Architecture**
 
 - ⚡ Fun fact **My music is pretty good**
 
