@@ -1,6 +1,3 @@
-![Cloud Banner](ce.png)
-
-
 <h1 align="center">Hi 👋, I'm Rafiu Dania</h1>
 <h3 align="center">A passionate aspiring Cloud Engineer/Solutions Architect</h3>
 
