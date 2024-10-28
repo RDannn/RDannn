@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdannn&label=Profile%20views&color=0e75b6&style=flat" alt="rdannn" /> </p>
 
 
-- 🌱 I’m currently learning **Cloud Engineering**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on **Cloud native projects**
 
